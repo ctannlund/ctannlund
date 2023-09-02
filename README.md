@@ -1,3 +1,1 @@
-### Hi there 👋
-
-MSU computer science student
+Computer science student.
