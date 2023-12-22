@@ -8,3 +8,4 @@
 ### Current Main Projects
 - :clipboard: Daily Goal Tracker Web App
 - :crossed_swords: 3D Unity Roguelike Game
+- :lock: Youtube Lockdown Chrome Extension
